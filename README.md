@@ -19,12 +19,12 @@
 	1. Presence of both the LGs is mandatory.
 	2. General questions asked -
 
-              1. Introduce yourself.
-              2. Details related to rent and facilities of your current residence.
-              3. Rules of girl’s hostel.
-              4. Duties of LG
-              5. Information of LGs.
-              6. General Discussion in context of your pursuing field.
+           1. Introduce yourself.
+           2. Details related to rent and facilities of your current residence.
+           3. Rules of girl’s hostel.
+           4. Duties of LG
+           5. Information of LGs.
+           6. General Discussion in context of your pursuing field.
        
 5. Visitors are allowed entry in the hostel premises on Sundays and Gazetted holidays between 9:30 to 5:30 pm.  
 
